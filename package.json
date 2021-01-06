@@ -31,7 +31,7 @@
     "@octokit/rest": "18.0.6",
     "@types/eslint": "7.2.2",
     "@types/table": "6.0.0",
-    "axios": "0.20.0",
+    "axios": "0.21.1",
     "bitbucket": "2.4.1",
     "camelcase": "6.0.0",
     "cli-ux": "5.5.0",
